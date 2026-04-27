@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.conda/
+.anaconda/
+.ipython/
+.jupyter/
+.vscode/
+__pycache__/
+*.pyc
